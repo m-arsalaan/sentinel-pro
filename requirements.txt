@@ -1,0 +1,12 @@
+Flask>=3.0.0
+Flask-SocketIO>=5.3.6
+Flask-CORS>=4.0.0
+python-socketio>=5.11.2
+Werkzeug>=3.0.1
+eventlet>=0.33.3
+psutil>=5.9.6
+watchdog>=3.0.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+requests>=2.31.0
+pywin32>=306; sys_platform == "win32"
