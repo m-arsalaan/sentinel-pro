@@ -24,7 +24,7 @@ SENTINEL PRO is a real-time Windows endpoint security framework built on the **Z
 Built as a semester project for **Operating System LAB** at **Air University, Islamabad** (BS Cybersecurity 4-B, 2026) to demonstrate every major OS concept in a practical, working security context.
 
 ---
-
+![Dashboard](outputs/Dashboard.png)
 ## Features
 
 | Feature | Description |
